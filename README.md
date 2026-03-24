@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World!! 👋
+I'm Tori, an up and coming programmer which loves to play around with code. I am curently pursuing a career in Software Engineering, and hope to use my abilities to become a Cybersecurity Agent or Game Developer. I would love to work in any project involving either one of those fields.
 
 <!--
 **TorisCoffin/TorisCoffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
